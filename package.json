@@ -4,7 +4,8 @@
   "description": "learn about node.js and npm",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon"
   },
   "keywords": [
     "node.js"
